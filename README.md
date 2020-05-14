@@ -1,3 +1,2 @@
-# Shiv-Ram-Hospital-Website
-Source codes for Shiv Ram Hospital Website 
-https://www.shivramhospital.com
+# Shiv-Ram-Hospital-Website(Version 1.0)
+Source codes for Shiv Ram Hospital Website
